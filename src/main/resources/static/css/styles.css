@@ -1,0 +1,7 @@
+.badge {
+    font-size: 0.9em;
+    padding: 0.5em 0.75em;
+    background-color: #4e4376; /* Фоновый цвет */
+    color: white; /* Цвет текста */
+    border-radius: 15px; /* Скругление углов */
+}
